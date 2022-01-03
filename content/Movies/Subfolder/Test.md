@@ -11,6 +11,8 @@ Lien : [[The Starling]]
 ---
 #film
 ---
+LOREM IMSPU M 
+
 Titre : "the Shining teset"
 Année : 2099
 Sujet : "Droit des oinoin"
@@ -19,29 +21,3 @@ Concepts de droit :
   - "Extasdfasdermsdfasdf oidfsadfaaux"
 Questions de droit : Est-ce que le poison peut être utilisé au Québec pour tuer des animaux
 ---
-
-'''dataview
-...
-list
-
-
-_List_
-```dataview
-list
-FROM "Movies"
-SORT file.size DESC
-LIMIT 10
-```
-*table*
-```dataview
-TABLE Titre, Année, Sujet, Concepts AS "Concepts de droit", Questions As "Questions de droit"
-FROM "Movies"
-SORT date DESC
-LIMIT 100
-```
-TASKs
-```dataview
-Task 
-FROM "Zot TO DO"
-
-```
