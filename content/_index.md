@@ -2,8 +2,9 @@
 title: 🪴 Quartz 3
 ---
 
-TEST  
-LOREM IPSUM…
+# TEST  
+
+## LOREM IPSUM…
 [|[movies]]]()
 [[movies][1]
 [movies]()
@@ -11,7 +12,8 @@ LOREM IPSUM…
 [Minimata Test][4]
 [Minimata Test][5]
 
-linnk to [Law movies][6]
+### linnk to
+ [Law movies][6]
 [Test1][7]
 [Test2][8]
 
