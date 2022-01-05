@@ -1,5 +1,5 @@
 ---
-Title : "Minimata"
+title : "Minimata"
 Titre : "Minimata"
 Année : 2021
 Sujet : "Droit de l'environnement"
