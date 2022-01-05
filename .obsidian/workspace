@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/notes/preview changes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/preview changes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,14 @@
   },
   "active": "61843483400dfd35",
   "lastOpenFiles": [
+    "content/notes/preview changes.md",
     "content/_index.md",
+    "content/notes/hosting.md",
+    "content/notes/ignore notes.md",
+    "content/notes/obsidian.md",
+    "content/notes/philosophy.md",
+    "content/notes/setup.md",
+    "content/notes/troubleshooting.md",
     "content/templates/post.md"
   ]
 }
