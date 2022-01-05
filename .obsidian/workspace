@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "content/notes/Minimata.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -89,14 +90,14 @@
   "active": "61843483400dfd35",
   "lastOpenFiles": [
     "content/notes/Minimata.md",
-    "content/notes/setup.md",
-    "content/notes/preview changes.md",
-    "content/notes/philosophy.md",
     "content/notes/obsidian.md",
-    "content/notes/ignore notes.md",
-    "content/notes/config.md",
     "content/_index.md",
-    "content/notes/hosting.md",
-    "content/notes/troubleshooting.md"
+    "content/notes/troubleshooting.md",
+    "content/moc/showcase.md",
+    "content/private/private-note.md",
+    "README.md",
+    "CODE_OF_CONDUCT.md",
+    "static/icon.png",
+    "content/notes/setup.md"
   ]
 }
