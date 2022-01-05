@@ -10,8 +10,7 @@ Concepts de droit :
   - "Pollution industrielle"
   - "Responsabilité civile"
 Questions de droit : Est-ce que les corporations sont responsables envers des citoyens affectés par leurs actions? 
-#film
-Lien : [[Minimata test]]
+
 ---
 # yolo
 
