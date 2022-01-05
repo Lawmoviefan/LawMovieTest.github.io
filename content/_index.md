@@ -1,18 +1,25 @@
 ---
-title: "Quartz 3"
+title: 🪴 Quartz 3
 ---
+Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
+1. Extremely fast full-text search by pressing `/`
+2. Beautiful, out-of-the-box website creation and deployment
+3. Display for backlinks of each note
+4. A customizable graph view
+5. Endlessly powerful page and theme customization
+6. Automatically generated tag and section lists of content
 
-# TEST  
+## Get Started
+> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
 
-## LOREM IPSUM…
-movies
+Not convinced yet? Look at some [community digital gardens](moc/showcase) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!
 
-### linnk to
-testing
+## Content Lists
+If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
 
-[1]:	]
-[4]:	Minimata%20test.md
-[5]:	Movies/Minimata%20test.md
-[6]:	Movies/Law%20movies.md
-[7]:	Movies/subfolder/test.md
-[8]:	Movies/subfolder/Test.md
+- [All Notes](/notes)
+- [Setup-related Notes](/tags/setup)
+
+## Troubleshooting
+- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
+- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
