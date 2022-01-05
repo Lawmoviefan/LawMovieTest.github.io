@@ -19,7 +19,7 @@ Questions : Est-ce que les corporations sont responsables envers des citoyens af
 TABLE WITHOUT ID
   file.link AS "Film", Année, Sujet, Concepts AS "Concepts de droit"
 
-FROM "Movies/Minimatat"
+FROM "content/notes/Minimatatt"
 SORT date DESC
 ```
 
@@ -31,7 +31,7 @@ SORT date DESC
 ```dataview
 TABLE WITHOUT ID
   file.link AS "Film", Questions AS "Question(s) de droit"
-FROM "Movies/Minimatat"
+FROM "content/notes/Minimatatt"
 SORT date DESC
 LIMIT 100
 ```
@@ -41,7 +41,7 @@ Indice :
 
 
 ### Bande Annonce
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WP3pKTssw_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CmzKQ3PSrow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ---
