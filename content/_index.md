@@ -5,17 +5,10 @@ title: 🪴 Quartz 3
 # TEST  
 
 ## LOREM IPSUM…
-[|[movies]]]()
-[[movies][1]
-[movies]()
-[Law movies]()
-[Minimata Test][4]
-[Minimata Test][5]
+movies
 
 ### linnk to
- [Law movies][6]
-[Test1][7]
-[Test2][8]
+testing
 
 [1]:	]
 [4]:	Minimata%20test.md
